@@ -1,2 +1,2 @@
 # hello-world
-Test repository
+I am learning git and intend to do some good with it.
